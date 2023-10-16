@@ -1,6 +1,5 @@
 <h1>AI Creator</h1>
-https://github.com/gecginserhat/AI-Creator/assets/74310970/2ba07f92-5202-42c9-8750-8ebaace370e2
-
+![Ekran görüntüsü 2023-10-16 093304](https://github.com/gecginserhat/AI-Creator/assets/74310970/a2406932-7b3c-456a-8110-9de0058b4e17)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
